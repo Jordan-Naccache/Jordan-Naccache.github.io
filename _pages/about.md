@@ -26,9 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Postdoctoral Researcher at SnT Luxembourg in the APSIA group, led by Prof. Peter Y. A. Ryan. I hold a PhD from CISPA Helmholtz Center for Information Security, where I was supervised by Prof. Dr. Antoine Joux and co-supervised by Dr. Benoît Cogliati.
+I am a Postdoctoral Researcher at SnT, the Interdisciplinary Centre for Security, Reliability and Trust in Luxembourg, in the APSIA group, led by Prof. Peter Y. A. Ryan. I defended my PhD thesis in December 2024 at CISPA Helmholtz Center for Information Security, where I was supervised by Prof. Dr. Antoine Joux and co-supervised by Dr. Benoît Cogliati.
 
 My research focuses on symmetric cryptography, particularly the analysis and design of symmetric-key schemes that ensure high security in both classical and quantum settings. I am dedicated to advancing cryptographic security in a post-quantum world, bridging rigorous theoretical foundations with practical applications.
+
+Prior to my PhD, I completed my Master’s thesis under the supervision of Prof. Itai Dinur, where I worked on algorithmic techniques for analyzing and classifying vectorial Boolean functions.
 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
