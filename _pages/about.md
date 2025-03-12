@@ -25,8 +25,8 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-
 ---
+
 I am a Postdoctoral Researcher at SnT, the Interdisciplinary Centre for Security, Reliability and Trust in Luxembourg, in the APSIA group, led by Prof. Peter Y. A. Ryan. My research focuses on symmetric cryptography, particularly the analysis and design of symmetric-key schemes that ensure high security in both classical and quantum settings.
 
 With my current position, I am also expanding my work into post-quantum cryptography in the context of public-key cryptography, bridging rigorous theoretical foundations with practical applications to enhance cryptographic security in a post-quantum world.
