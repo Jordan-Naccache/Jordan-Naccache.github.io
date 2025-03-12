@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Maison du Nombre (Second Floor)</p>
-    <p>University of Luxembourg</p>
+    <p>Office: MNO, E02 0225080-04</p>
+    <p>Maison du Nombre</p>
+    <p>6, avenue de la Fonte</p>
     <p>Esch-sur-Alzette, Luxembourg</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
