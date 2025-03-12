@@ -32,5 +32,3 @@ I am a Postdoctoral Researcher at SnT, the Interdisciplinary Centre for Security
 My research focuses on symmetric cryptography, particularly the analysis and design of symmetric-key schemes that ensure high security in both classical and quantum settings. I am dedicated to advancing cryptographic security in a post-quantum world, bridging rigorous theoretical foundations with practical applications.
 
 Prior to my PhD, I completed my Master’s thesis under the supervision of Prof. Itai Dinur, where I worked on algorithmic techniques for analyzing and classifying vectorial Boolean functions.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
