@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-ssubtitle: >
-  Postdoctoral Research Associate
+subtitle: >
+  Postdoctoral Research Associate at
   <a href="https://www.uni.lu/snt-en/research-groups/apsia/">APSIA Research Group</a>
 
 profile:
