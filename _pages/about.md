@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
+  more_info: |
     <p>MNO, E02 0225080</p>
     <p>6, avenue de la Fonte</p>
     <p>Esch-sur-Alzette, Luxembourg</p>
