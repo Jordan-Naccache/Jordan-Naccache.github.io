@@ -14,9 +14,21 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 ## Journal Publications
-
 <div class="publications">
+  {% bibliography --file journal %}
+</div>
 
-{% bibliography %}
+## Conference Publications
+<div class="publications">
+  {% bibliography --file conference %}
+</div>
 
+## Thesis
+<div class="publications">
+  {% bibliography --file thesis %}
+</div>
+
+## Preprints
+<div class="publications">
+  {% bibliography --file preprint %}
 </div>
