@@ -1,3 +1,4 @@
+
 ---
 layout: page
 permalink: /publications/
@@ -9,12 +10,24 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
 <div class="publications">
 
-{% bibliography %}
+<!-- Main Title -->
+# Publications
+
+<!-- Sub Title 1 -->
+## Category 1
+
+{% bibliography --query @category1 %}
+
+<!-- Sub Title 2 -->
+## Category 2
+
+{% bibliography --query @category2 %}
+
+<!-- Sub Title 3 -->
+## Category 3
+
+{% bibliography --query @category3 %}
 
 </div>
