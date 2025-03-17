@@ -13,7 +13,6 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-
 ## Conference Publications
 
 <div class="publications">
