@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+#title: publications
 description:
 nav: true
 nav_order: 2
@@ -13,25 +13,25 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-## <div style="color:red; text-align:center;">Conference Publications</div>
+## <span style="color:red; text-align:center; display:block;">Conference Publications</span>
 
 <div class="publications">
   {% bibliography --file conference %}
 </div>
 
-## <div style="color:red; text-align:center;">Journal Publications</div>
+## <span style="color:red; text-align:center; display:block;">Journal Publications</span>
 
 <div class="publications">
   {% bibliography --file journal %}
 </div>
 
-## <div style="color:red; text-align:center;">Thesis</div>
+## <span style="color:red; text-align:center; display:block;">Thesis</span>
 
 <div class="publications">
   {% bibliography --file thesis %}
 </div>
 
-## <div style="color:red; text-align:center;">Preprints</div>
+## <span style="color:red; text-align:center; display:block;">Preprints</span>
 
 <div class="publications">
   {% bibliography --file preprint %}
