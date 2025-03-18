@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: You can find my complete list of publications on my
-[dplb profile](https://dblp.org/pid/307/9506.html)
+  <a href="https://dblp.org/pid/307/9506.html">dplb profile Group</a>
 nav: true
 nav_order: 2
 ---
