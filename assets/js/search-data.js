@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "You can find my complete list of publications on my dblp profile",
+          description: "You can find my complete list of publications on my dblp profile.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
