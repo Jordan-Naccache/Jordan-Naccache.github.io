@@ -2,7 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: You can find my complete list of publications on my [dplb page](https://dblp.org/pid/307/9506.html).
+description: >
+You can find my complete list of publications on my <a href="https://dblp.org/pid/307/9506.html">dblp profile</a>.
 nav: true
 nav_order: 1
 ---
