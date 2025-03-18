@@ -9,10 +9,6 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
-
-#{% include bib_search.liquid %}
-
 ## <span style="color:red; text-align:center; display:block;">Conference Publications</span>
 
 <div class="publications">
