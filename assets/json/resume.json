@@ -2,8 +2,10 @@
   "basics": {
     "name": "Jordan Naccache (Ethan)",
     "image": "",
-    "email": "jordan.naccache@uni.lu",
-    "personal email": "jordan.ethan.crypto@gmail.com",
+    "emails": [
+      "<a href='mailto:jordan.naccache@uni.lu'>jordan.naccache@uni.lu</a> (university)<br>",
+      "<a href='mailto:jordan.ethan.crypto@gmail.com'>jordan.ethan.crypto@gmail.com</a> (personal)"
+    ],
     "phone": "",
     "url": "https://jordan-naccache.github.io/",
     "summary": "",
