@@ -434,7 +434,7 @@ ninja.data = [{
         title: 'DBLP',
         section: 'Socials',
         handler: () => {
-          window.open("https://dblp.org/pid/307/9506.html# your DBLP profile url", "_blank");
+          window.open("https://dblp.org/pid/307/9506.html", "_blank");
         },
       },{
         id: 'social-email',
@@ -455,7 +455,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0009-0004-0495-6939# your ORCID ID", "_blank");
+          window.open("https://orcid.org/0009-0004-0495-6939", "_blank");
         },
       },{
         id: 'social-rss',
