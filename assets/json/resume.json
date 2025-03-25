@@ -118,17 +118,11 @@
   "references": [
     {
       "name": "Prof. Dr. Antoine Joux",
-      "icon": "fa-solid fa-user",
-      "reference": "Official PhD Supervisor, CISPA Helmholtz Center for Information Security",
-      "email": "joux@cispa.de",
-      "affiliation": "CISPA Helmholtz Center for Information Security"
+      "reference": "Official PhD Supervisor\nCISPA Helmholtz Center for Information Security\nEmail: joux@cispa.de"
     },
     {
       "name": "Dr. Benoît Cogliati",
-      "icon": "fa-solid fa-user",
-      "reference": "PhD Co-Supervisor & Team Leader, Thales DIS France",
-      "email": "benoit.cogliati@gmail.com",
-      "affiliation": "Thales DIS France"
+      "reference": "PhD Co-Supervisor & Team Leader\nThales DIS France\nEmail: benoit.cogliati@gmail.com"
     }
   ]
 }
