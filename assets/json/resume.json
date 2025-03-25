@@ -111,7 +111,7 @@
     },
     {
       "language": "Hebrew",
-      "fluency": "Fluent",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
@@ -119,23 +119,16 @@
     {
       "name": "Prof. Dr. Antoine Joux",
       "icon": "fa-solid fa-user",
-      "reference": "PhD Supervisor",
-      "affiliation": "CISPA Helmholtz Center for Information Security",
-      "email": "joux@cispa.de"
+      "reference": "Official PhD Supervisor, CISPA Helmholtz Center for Information Security",
+      "email": "joux@cispa.de",
+      "affiliation": "CISPA Helmholtz Center for Information Security"
     },
     {
       "name": "Dr. Benoît Cogliati",
       "icon": "fa-solid fa-user",
-      "reference": "PhD Co-Supervisor",
-      "affiliation": "Thales DIS France SAS",
-      "email": "benoit.cogliati@gmail.com"
-    },
-    {
-      "name": "Dr. Ashwin Jha",
-      "icon": "fa-solid fa-user",
-      "reference": "Main Collaborator",
-      "affiliation": "Ruhr University Bochum",
-      "email": "letterstoashwin@gmail.com"
+      "reference": "PhD Co-Supervisor & Team Leader, Thales DIS France",
+      "email": "benoit.cogliati@gmail.com",
+      "affiliation": "Thales DIS France"
     }
   ]
 }
