@@ -636,6 +636,10 @@ jsonresume:
   - work
   - education
   - publications
+  - projects
+  - volunteer
+  - awards
+  - certificates
   - skills
   - languages
   - interests
